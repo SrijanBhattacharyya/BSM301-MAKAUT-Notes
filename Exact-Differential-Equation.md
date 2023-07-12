@@ -14,4 +14,8 @@ f(x, y) =    dy/dx   = - (M(x, y)/N(x, y))
   ```
 
 ## Ways to Solve an Exact Differential Equation
-<
+  <details>
+    <summary>Way 1</summary>
+
+      **Equation:** `Mdx + Ndy = 0`
+  </details>
