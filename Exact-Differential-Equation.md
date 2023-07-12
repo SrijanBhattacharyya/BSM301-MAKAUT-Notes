@@ -17,7 +17,7 @@ f(x, y) =    dy/dx   = - (M(x, y)/N(x, y))
    <details>
       <summary>Way 1</summary>
 
-      1. Equation:
+   1. Equation:
          `Mdx + Ndy = 0`
        
   </details>
