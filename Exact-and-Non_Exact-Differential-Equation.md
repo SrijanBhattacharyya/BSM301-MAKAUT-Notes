@@ -66,4 +66,4 @@ f(x, y) =    dy/dx   = - (M(x, y)/N(x, y))
 ## Ways to Solve Non-Exact Differential Equation
 1. Multiply the equation with it's Integrating Factor.
 2. Now it has become an Exact Differential Equation.
-3. Solve it in [this way]().
+3. Solve it in [this way](https://github.com/SrijanBhattacharyya/BSM301-MAKAUT-Notes/blob/main/Exact-and-Non_Exact-Differential-Equation.md#ways-to-solve-exact-differential-equation).
