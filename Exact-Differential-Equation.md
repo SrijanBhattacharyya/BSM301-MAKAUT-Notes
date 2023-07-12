@@ -25,6 +25,15 @@ f(x, y) =    dy/dx   = - (M(x, y)/N(x, y))
    3. Add the results of the above steps.
 
    > **NOTE:**
-   <br> Don't repeate anything in the addition.
+   <br> Don't repeate anything during the addition.
+   </details>
+   <details>
+      <summary>Way 2</summary>
 
+   **Equation:** `Mdx + Ndy = 0`
+   
+   ### Steps to solve:
+   1. ∫Mdx                        `[y is constant]`
+   2. ∫ndy                        `[n are the terms of N without x as their coefficient]`
+   3. Add the results of the above steps.
    </details>
