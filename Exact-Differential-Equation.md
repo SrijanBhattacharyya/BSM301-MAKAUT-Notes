@@ -17,7 +17,14 @@ f(x, y) =    dy/dx   = - (M(x, y)/N(x, y))
    <details>
       <summary>Way 1</summary>
 
-   1. Equation:
-         `Mdx + Ndy = 0`
-       
-  </details>
+   **Equation:** `Mdx + Ndy = 0`
+   
+   ### Steps to solve:
+   1. ∫Mdx                        `[y is constant]`
+   2. ∫Ndy                        `[x is constant]`
+   3. Add the results of the above steps.
+
+   > **NOTE:**
+   <br> Don't repeate anything in the addition.
+
+   </details>
