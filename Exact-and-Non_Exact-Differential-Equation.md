@@ -15,7 +15,7 @@ f(x, y) =    dy/dx   = - (M(x, y)/N(x, y))
   ```
 
 ## Ways to Solve Exact Differential Equation
-   * <details>
+   <details>
       <summary>Way 1</summary>
 
    **Equation:** `Mdx + Ndy = 0`
@@ -28,7 +28,8 @@ f(x, y) =    dy/dx   = - (M(x, y)/N(x, y))
    > **NOTE:**
    <br> Don't repeate anything during the addition.
    </details>
-   * <details>
+
+   <details>
       <summary>Way 2</summary>
 
    **Equation:** `Mdx + Ndy = 0`
